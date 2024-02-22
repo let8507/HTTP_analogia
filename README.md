@@ -1,10 +1,21 @@
-# Analogia do http com uma livraria online
+# Analogia do http com uma manicure
 
-Cliente - Vai acessar o servidor da livraria para comprar um livro chamado Verity.
+- **Cliente** - Quais são os modelos de unhas que você faz? (HTTP GET)
 
-Servidor - Processa a solicidação do navegador e envia uma resposta de volta para o cliente.
+- **Manicure** - Eu faço stileto, amendoada, quadrada e bailarina. 
 
-Cliete - Visualiza o conteúdo da página e finaliza a sua compra.
+- **Cliente** - Tendi. Eu vou quero uma stileto da cor rosa. (HTTP POST)
 
-### Essa analogia compara o HTTP ao sistema de comunicação entre clientes e servidores em uma livraria online. Assim como o HTTP facilita a solicitação e o envio de informações entre navegadores e servidores na web, a livraria online permite que os clientes naveguem pelo catálogo de livros e façam compras de forma eficiente, processando solicitações e enviando respostas conforme necessário.
+- **Manicure** - Ok.
 
+- **Cliente** - Eu vou querer glitter dourado também.(HTTP PUTT)
+
+- **Manicure** - Ok, podemos fazer.
+
+- **Cliente** - Na verdade cancela, não vou querer mais fazer não, tenho que ir embora porque meu pai ta passando muito mal. (HTTP DELETE)
+
+- **Manicure** - Ok.
+
+FRONT END - Cliente 
+
+BACK END - Manicure
